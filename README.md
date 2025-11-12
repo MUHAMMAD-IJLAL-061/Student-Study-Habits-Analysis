@@ -40,13 +40,13 @@ It demonstrates skills in **data cleaning**, **statistical analysis**, and **vis
 ---
 
 ### 2️⃣ Overall Daily Time Allocation  
-![](charts/Daily_Time_Allocation.png)  
+![](Charts/.png)  
 > Displays how students distribute their time among key activities.
 
 ---
 
 ### 3️⃣ Impact of Study Hours on GPA and Stress  
-![](charts/study_stress_GPA.png)  
+![](Charts/study_stress_GPA.png)  
 > Dual-axis chart showing how GPA and stress vary with study hours.
 
 ---
