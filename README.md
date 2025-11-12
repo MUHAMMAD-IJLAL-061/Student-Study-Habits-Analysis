@@ -34,7 +34,7 @@ It demonstrates skills in **data cleaning**, **statistical analysis**, and **vis
 ## 📈 Key Visualizations
 
 ### 1️⃣ Stress Level vs. Daily Activity Hours  
-![](Charts/Stress_vs_Daily.png)
+![](Charts/stress vs Daily.png)
 > Shows how stress correlates with time spent on different daily activities.
 
 ---
