@@ -1,5 +1,5 @@
 # Student-Study-Habits-Analysis
-Data analysis project exploring how students’ daily habits affect GPA and stress using Pandas, Matplotlib, and Seabor
+Data analysis project exploring how students’ daily habits affect GPA and stress using Pandas, Matplotlib, and Seaborn
 # 🎓 Student Study Habits Analysis
 
 This project analyzes the relationship between **students' daily habits** (study hours, sleep, physical activity, and social life) and their **academic performance and stress levels** using real-world data from [Kaggle](https://www.kaggle.com/datasets/afnansaifafnan/study-habits-and-activities-of-students).
@@ -40,7 +40,7 @@ It demonstrates skills in **data cleaning**, **statistical analysis**, and **vis
 ---
 
 ### 2️⃣ Overall Daily Time Allocation  
-![](Charts/.png)  
+![](Charts/Daily_Time_Allocation.png)  
 > Displays how students distribute their time among key activities.
 
 ---
